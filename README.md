@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prasad Javalkoti</h1>
 <h3 align="center">A passionate Full stack Java Developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp6_j4DWI1LHyGWIsIAy8NrjjvSu0ZHNNPsA&s"
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp6_j4DWI1LHyGWIsIAy8NrjjvSu0ZHNNPsA&s">
 
 
 - 🌱 I’m currently learning **Data Structure And Algorithm in Java**
