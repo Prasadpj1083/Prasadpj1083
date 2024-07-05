@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
 
-src=<p align="left"> <img src="https://komarev.com/ghpvc/?username=prasadpj1083&label=Profile%20views&color=0e75b6&style=flat" alt="prasadpj1083" /> </p>
+src=<p align="left"> <img src="[https://komarev.com/ghpvc/?username=prasadpj1083&label=Profile%20views&color=0e75b6&style=flat](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp6_j4DWI1LHyGWIsIAy8NrjjvSu0ZHNNPsA&s)" alt="prasadpj1083" /> </p>
 
 - 🌱 I’m currently learning **Data Structure And Algorithm in Java**
 
