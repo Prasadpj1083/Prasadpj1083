@@ -6,7 +6,10 @@
 
 - 🌱 I’m currently learning **Data Structure And Algorithm in Java**
 
-- 💬 Ask me about **Core Java, DBMS etc**
+- 💬 TECHNICAL SKILLS 
+      Programming: Java and Python. 
+     Database: MySQL, Apache, SqlLite. 
+     Networking Concepts: TCP/IP, Routing, Switching, OSI Model
 
 - ⚡ Fun fact **I am Quick Learner**
 
