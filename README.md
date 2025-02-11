@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp6_j4DWI1LHyGWIsIAy8NrjjvSu0ZHNNPsA&s">
 
 
-- 🌱 I’m currently learning **Data Structure And Algorithm in Java**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 💬 TECHNICAL SKILLS 
       Programming: Java and Python. 
